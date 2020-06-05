@@ -139,7 +139,7 @@ nav .nav-about-container a{
 .blogs-main-new{
     display: grid;
     grid-template-columns: 2fr 1fr;
-    /* grid-template-rows: 2fr; */
+    grid-template-rows: 2fr;
 }
 
 .blogs-news-img-container{
